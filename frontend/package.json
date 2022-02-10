@@ -17,7 +17,7 @@
     "highlight.js": "^9.10.0",
     "lodash.throttle": "^4.1.1",
     "marked": "^0.3.9",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "nprogress": "^0.2.0",
     "sass-loader": "^6.0.6",
     "socket.io-client": "^2.1.1",
